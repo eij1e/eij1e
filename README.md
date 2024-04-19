@@ -3,6 +3,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 While you are reading this, I am reading a book on statistics and writing a new project 😎
 
-*   🌍  I'm based in moskow
+*   🌍  I'm based in Moskow
 *   ✉️  You can contact me at [vrpivnev@miem.hse.ru](mailto:vrpivnev@miem.hse.ru)
-*   ✉️  My tg: [@moonless2h]
+
